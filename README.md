@@ -1,6 +1,6 @@
 # RWCO Coaches Training
 
-_Updated 2026-11-24 23:00 (Kigali). Solves are collected automatically from your judge accounts._
+_Updated 2026-11-28 16:08 (Kigali). Solves are collected automatically from your judge accounts._
 
 ## Current problems: S01 (discussed 2026-11-28)
 
@@ -26,14 +26,14 @@ _Updated 2026-11-24 23:00 (Kigali). Solves are collected automatically from your
 
 | # | Coach | Attended | Before session | In session | Upsolve | Total |
 |---|---|---|---|---|---|---|
-| 1 | GANZA Gad Prince | 0 | 0 | 0 | 0 | **0** |
-| 2 | Kubwayo Joseph | 0 | 0 | 0 | 0 | **0** |
-| 3 | NDATIMANA Bienvenu | 0 | 0 | 0 | 0 | **0** |
-| 4 | Fabrice NIYONGIRA | 0 | 0 | 0 | 0 | **0** |
-| 5 | Mizero Lucky Gall | 0 | 0 | 0 | 0 | **0** |
-| 6 | ISHIMWE Frank | 0 | 0 | 0 | 0 | **0** |
-| 7 | Jado Fils SEZIKEYE | 0 | 0 | 0 | 0 | **0** |
-| 8 | Abumugisha Barnabe | 0 | 0 | 0 | 0 | **0** |
-| 9 | Fulgence NIYOMUKIZA | 0 | 0 | 0 | 0 | **0** |
-| 10 | IMURINDE Peace | 0 | 0 | 0 | 0 | **0** |
-| 11 | Kagaba Etienne | 0 | 0 | 0 | 0 | **0** |
+| 1 | Kagaba Etienne | 0 | 3 | 0 | 0 | **3** |
+| 2 | NDATIMANA Bienvenu | 0 | 1 | 0 | 0 | **1** |
+| 3 | Fulgence NIYOMUKIZA | 0 | 1 | 0 | 0 | **1** |
+| 4 | GANZA Gad Prince | 0 | 0 | 0 | 0 | **0** |
+| 5 | Kubwayo Joseph | 0 | 0 | 0 | 0 | **0** |
+| 6 | Fabrice NIYONGIRA | 0 | 0 | 0 | 0 | **0** |
+| 7 | Mizero Lucky Gall | 0 | 0 | 0 | 0 | **0** |
+| 8 | ISHIMWE Frank | 0 | 0 | 0 | 0 | **0** |
+| 9 | Jado Fils SEZIKEYE | 0 | 0 | 0 | 0 | **0** |
+| 10 | Abumugisha Barnabe | 0 | 0 | 0 | 0 | **0** |
+| 11 | IMURINDE Peace | 0 | 0 | 0 | 0 | **0** |
